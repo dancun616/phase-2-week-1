@@ -68,6 +68,7 @@ h2.PreviousHeader{
 div.ListItem{
   width:fit-content;
   margin-left:30%;
+  color:rgb(222, 232, 222);
 }
 button.searchButton{
   padding: 10px;
@@ -77,6 +78,7 @@ button.searchButton{
   color: aliceblue;
   border: none;
   font-size: 18px;
+  color: white;
 }
 input.SearchButton{
   display:flex;

@@ -3,7 +3,7 @@ function SearchInput() {
 
   return(
   <div className="searchInput">
-    <h1 className="HeaderOne">Flatiron Bank </h1>
+    <h1 className="HeaderOne">Flatiron Bank</h1>
     <input
     type="text"
     placeholder="search"
