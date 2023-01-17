@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+div.NewTransaction{
+ font-size: 19px;
+}
+input{
+padding: 2px;
+margin-left: 30%;
+display: list-item;
+
+}
+button{
+  margin-top: 10PX;
+  padding: 10px;
+  border-radius: 18px;
+  margin-left: 10px;
+  background-color: #00acee;
+  border: none;
+  color: rgb(25, 25, 25);
+}
+
+label{
+  display:block;
+  margin-left: -30%;
+  margin-top: 15px;
+  color: rgb(215, 203, 203);
+  padding-bottom: 5px;
+}
+h2.PreviousHeader{
+  margin-left: -30%;
+}
+div.ListItem{
+  width:fit-content;
+  margin-left:30%;
+}
+button.searchButton{
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: -30%;
+  background-color: #ff5311;
+  color: aliceblue;
+  border: none;
+  font-size: 18px;
+}
+input.SearchButton{
+  display:flex;
+  margin: auto;
+  height: 1.6em;
+  border-radius: 5px;
+}
+.App{
+  background-color: #6e8085;
+  margin: auto 10%;
+ 
+}
+h1.HeaderOne{
+ padding-top: 10%; 
+}
+table.TableBody{
+ font-size: 20px;
+ padding-bottom: 10%;
+}

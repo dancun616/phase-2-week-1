@@ -15,7 +15,7 @@ function Transaction (){
 
     return(
       <center>
-        <table>
+        <table className="TableBody">
         <thead>
           <tr>
             <th>ID</th>
