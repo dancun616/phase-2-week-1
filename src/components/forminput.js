@@ -1,17 +1,15 @@
-import {useState} from "react";
+import React from "react";
 function Forminput() {
 
   return(
-  <div className="forminput">
-    <h1>Account</h1>
-      <label>search</label>
-      <input/>
+  <div className="forminput"> 
       <label>Description</label>
-      <input/>
+      <input type="text"
+    placeholder="description"/>
       <label>Category</label>
-      <input/>
+      <input placeholder="category"/>
       <label>Amount</label>
-      <input/>
+      <input placeholder="amount"/>
       <button>submit</button>
   </div>
 

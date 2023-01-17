@@ -1,12 +1,15 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Forminput from './components/forminput';
-
+import Transaction from './components/transaction';
+import SearchInput from './components/SearchInput';
 
 function App() {
   return (
     <div className="App">
- <Forminput/>
+    <SearchInput/>
+    <Forminput/>
+    <Transaction/>
     </div>
   );
 }
