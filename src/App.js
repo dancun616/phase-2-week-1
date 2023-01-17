@@ -1,16 +1,16 @@
 
 import './App.css';
-import Forminput from './components/forminput';
 import Transaction from './components/transaction';
 import SearchInput from './components/SearchInput';
-
+import NewTransaction from './components/NewTransaction';
 function App() {
   return (
-    <div className="App">
+    <center className="App">
     <SearchInput/>
-    <Forminput/>
+    <NewTransaction/>
     <Transaction/>
-    </div>
+    
+    </center>
   );
 }
 
