@@ -4,7 +4,7 @@ Flatiron bank is an app that allows users to view a fetched transaction form and
 
 # To run the application
 ### Alternative one 
-Click on the Github pages link provided and you will be directed to the weather application directly.
+Click on the Github pages link provided and you will be directed to the Flatiron Bank application directly.
 
     https://vocal-pegasus-e1c294.netlify.app/
 
