@@ -2,7 +2,7 @@
 ## Description
 Flatiron bank is an app that allows users to view a fetched transaction form and can also enable users to add details via input 
 
-To run the application
+# To run the application
 ### Alternative one 
 Click on the Github pages link provided and you will be directed to the weather application directly.
 
