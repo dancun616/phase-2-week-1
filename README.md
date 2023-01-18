@@ -24,13 +24,16 @@ Open it in *Visual Studio Code:*
 
     code .
 
+
 ### Running tha application
 To run the application in alternative two 
 
- - Open a new terminal and copy the command below:
+ Run npm install
 
-     google-chrome index.html 
+    npm install
+Run npm start
 
+    npm start
 This enables us to run HTML file in browser.
 ## Project set-up
 Once the project is up and running in the browser,You should be directed to the landing page Flatiron Bank you can fill the required input form and submit to add transaction. 
